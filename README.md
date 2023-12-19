@@ -1,4 +1,4 @@
-# HOME TASK CODE LOVERS
+# Movie Theater App - Code Lovers Home Task Backend
 
 How to use this server:
 
